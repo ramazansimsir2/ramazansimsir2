@@ -1,5 +1,3 @@
-![👋 Hi, my name is Ramazan Şimşir](https://scrimba.com/articles/content/images/size/w2000/2022/08/Coding-or-Programming_-What-Is-the-Difference_-main-1.png)
-
 ![Profile views](https://komarev.com/ghpvc/?username=ramazansimsir2&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
@@ -34,4 +32,5 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=sushilmagare10&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
 </p>
+
 
